@@ -52,7 +52,7 @@ Welcome to the ultimate curated list of **Educational Math Solvers**, **Computer
 
 The open-source math software ecosystem is **exceptionally mature and production-proven**. Below is a curated list of top open-source projects ranked by community popularity on GitHub:
 
-| Project & Description | GitHub Stars Badge 🌟 | License 📜 |
+| Project & Description | GitHub_Stars_Badge 🌟 | License 📜 |
 | :--- | :--- | :--- |
 | **[GeoGebra](https://github.com/geogebra/geogebra)** — **Free dynamic mathematics software for learning and teaching.** Interactive geometry, algebra, graphing, statistics, and calculus with interactive 3D graphs and classroom activities. | [![Stars](https://img.shields.io/github/stars/geogebra/geogebra?style=social&color=white)](https://github.com/geogebra/geogebra/stargazers) | GPL-3.0 |
 | **[SageMath](https://github.com/sagemath/sage)** — **Comprehensive open-source mathematics software system.** Built on top of Python, NumPy, SciPy, and SymPy. Provides university-grade CAS capabilities for algebra, geometry, calculus, and number theory. | [![Stars](https://img.shields.io/github/stars/sagemath/sage?style=social&color=white)](https://github.com/sagemath/sage/stargazers) | GPL-2.0 |
